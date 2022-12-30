@@ -6,8 +6,6 @@ While I am aware that a lot of the UK Happy Hardcore sound tends to come from th
 
 Here are some that I know of:
 
----
-
 ## UK Happy Hardcore
 
 ### Fracus and Darwin
