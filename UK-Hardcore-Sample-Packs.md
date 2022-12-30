@@ -65,8 +65,6 @@ Here are some that I know of:
 - [Volume 1](https://www.yesspyro.com/collections/all/products/spyro-sample-pack-vol-1-samples-only)
 - [Volume 2](https://www.yesspyro.com/collections/frontpage/products/spyro-sample-pack-vol-2)
 
----
-
 ## Old Skool
 
 ### Billy Bunter and Sanxion
