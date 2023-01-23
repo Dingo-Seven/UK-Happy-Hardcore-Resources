@@ -12,6 +12,7 @@ Here is a list of UK Happy Hardcore preset packs, for those looking to reverse e
 - [Technikore Serum 2022](https://www.beatlabaudio.com/shop/synth-presets/serum/technikore-serum-presets-2022)
 - [Oversampled Porter Robinson Inspired Serum Preset Pack](https://oversampled.us/collections/frontpage/products/portify-porter-robinson-inspired-serum-preset-pack)
   - Not necessarily UK Hardcore, but I like to use this kinda sound
+- [Kors K 2021 Free Serum Presets](https://www.youtube.com/watch?v=ilmMgqbHhlg)
 
 ## Native Instruments Massive
 
