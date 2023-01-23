@@ -4,6 +4,8 @@ Here is a list of a few sample packs related to UK Happy Hardcore, following the
 
 While I am aware that a lot of the UK Happy Hardcore sound tends to come from the reFX Vengeance sample packs, I find that they tend to be relatively inaccessible for most. For this reason, I really like getting artist packs because they tend to be cheaper, and you can emulate the kind of sound that you're going for or at least get a good starting point on that journey.
 
+Don't be afraid to experiment with taking sounds from other genres! Consider using sounds from Trance, Acid Techno/House, Industrial Midtempo, Russian Hardbass, Drum N Bass, Kawaii Future Bass, Eurobeat, European New Beat, etc.
+
 Here are some that I know of:
 
 ## UK Happy Hardcore
