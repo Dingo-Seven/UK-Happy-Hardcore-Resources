@@ -4,9 +4,17 @@ Here is a list of a few sample packs related to UK Happy Hardcore, following the
 
 While I am aware that a lot of the UK Happy Hardcore sound tends to come from the reFX Vengeance sample packs, I find that they tend to be relatively inaccessible for most. For this reason, I really like getting artist packs because they tend to be cheaper, and you can emulate the kind of sound that you're going for or at least get a good starting point on that journey.
 
-Don't be afraid to experiment with taking sounds from other genres! Consider using sounds from Trance, Acid Techno/House, Industrial Midtempo, Russian Hardbass, Drum N Bass, Kawaii Future Bass, Eurobeat, European New Beat, etc.
+Don't be afraid to experiment with taking sounds from other genres!
 
-Here are some that I know of:
+If you use Splice or any other sample subscription service, you can use samples from an array of genres such as Trance, Techno, Drum n Bass, and Dubstep for the drums. It is cool to mesh hardcore with other genres such as Rock, Kawaii Future Bass, the works. Getting samples like fx, ambiance, and the like from many other genres is worth experimenting with. I personally like the KSHMR packs for drum fills, fx, and the occasional Uplifting Trance kick.
+
+I heavily advise learning sound design for things like acid, pads, and leads. 
+
+If it sounds good, it's good :D
+
+Have fun in your productions!
+
+Here are the packs:
 
 ## UK Happy Hardcore
 
@@ -145,9 +153,3 @@ Here are some that I know of:
 - [Mega Collection](https://samples.kb6.de/downloads.php)
 
 There's def more out there, but I have yet to discover them, feel free to add on any other ones that you know of.
-
-If you use Splice or any other sample subscription service, you can use samples from an array of genres such as Trance, Techno, Drum n Bass, and Dubstep for the drums. It is cool to mesh hardcore with other genres such as Rock, Kawaii Future Bass, the works. Getting samples like fx, ambiance, and the like from many other genres is worth experimenting with. I personally like the KSHMR packs for drum fills, fx, and the occasional Uplifting Trance kick.
-
-I heavily advise learning sound design for things like acid, pads, and leads. If it sounds good, it's good :D
-
-Have fun in your productions!
