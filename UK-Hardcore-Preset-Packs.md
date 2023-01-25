@@ -2,7 +2,11 @@
 
 Here is a list of UK Happy Hardcore preset packs for those looking to reverse engineer certain artist sounds. 
 
-Don't be afraid to experiment with taking sounds from other genres! Consider using sounds from Trance, Acid Techno/House, Industrial Midtempo, Russian Hardbass, Drum N Bass, Kawaii Future Bass, Eurobeat, Old Skool, European New Beat, etc.
+Don't be afraid to experiment with taking sounds from other genres! 
+
+Consider using sounds from Trance, Acid Techno/House, Industrial Midtempo, Russian Hardbass, Drum N Bass, Kawaii Future Bass, Eurobeat, Old Skool, European New Beat, etc.
+
+If it sounds good, it sounds good :D
 
 ## XFER Serum
 
