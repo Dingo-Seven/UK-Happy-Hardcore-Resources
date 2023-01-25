@@ -67,6 +67,58 @@ Here are some that I know of:
 - [Volume 1](https://www.yesspyro.com/collections/all/products/spyro-sample-pack-vol-1-samples-only)
 - [Volume 2](https://www.yesspyro.com/collections/frontpage/products/spyro-sample-pack-vol-2)
 
+### Yuta Imai
+
+- [Essential Samples Vol. 1](https://tokyoharddance.gumroad.com/l/yutaimai2?layout=profile)
+- [Hardstyle Sample Pack](https://tokyoharddance.gumroad.com/l/yutaimai1?layout=profile)
+
+### Colour.
+
+- [Essentials Pack](https://store.anagram-s.com/collections/artist-line/products/essentials)
+
+### MK & Shadw
+
+- [EDM Sample Pack](https://store.anagram-s.com/collections/artist-line/products/mk-shadw-edm-sample-pack)
+
+### Nhato
+
+- [Sample Pack Volume 1](https://store.anagram-s.com/collections/artist-line/products/nhato-sample-pack)
+- [Sample Pack Volume 2](https://store.anagram-s.com/collections/artist-line/products/nhato-sample-pack-vol-2)
+- [Kick Samples](https://store.anagram-s.com/products/nhato-kick-samples)
+
+### KYMOGRAPH
+
+- [Knowledge Drums Pack](https://kymograph.gumroad.com/l/KNLG4?layout=profile)
+- [Excimer Pack](https://kymograph.gumroad.com/l/EXCMR?layout=profile)
+- [Acoustic Breaks Vol. 1](https://kymograph.gumroad.com/l/KMABL?layout=profile)
+- [Acoustic Breaks Vol. 2](https://kymograph.gumroad.com/l/ABL2?layout=profile)
+
+### Tranquil Audio
+
+- [Let's Try Hi-Tech Vol. 1](https://t-audio.booth.pm/items/3399344)
+- [Dustvoxx Sample Pack Vol. 1](https://t-audio.booth.pm/items/446047)
+- [Dustvoxx Sample Pack Vol. 2](https://t-audio.booth.pm/items/839332)
+- [Fillist Hardtek Sample Pack](https://t-audio.booth.pm/items/1343147)
+
+### Laur
+
+- [Kick Sample Pack Vol. 1](https://laur1200as.booth.pm/items/3426306)
+- [Skull Snare and Cinematic Sound Sample Pack](https://laur1200as.booth.pm/items/533518)
+
+### Lapix
+
+- [HiTECH Ninja Samples Vol. 1](https://lapix.booth.pm/items/890648)
+- [HiTECH Ninja Samples Vol. 2](https://lapix.booth.pm/items/890680)
+- [HiTECH Ninja Samples Vol. 3](https://lapix.booth.pm/items/960331)
+- [HiTECH Ninja Samples Vol. 4](https://lapix.booth.pm/items/1920121)
+- [HiTECH Scratch Junkie](https://lapix.booth.pm/items/2110985)
+- [HiTECH Bass Loops Vol. 1](https://lapix.booth.pm/items/2729161)
+- [HiTECH Synth Loops Vol. 1](https://lapix.booth.pm/items/3017577)
+
+### Srav3R
+
+- [Sample Pack Vol. 1](https://srav3r.booth.pm/items/896343)
+
 ## Old Skool
 
 ### Billy Bunter and Sanxion
