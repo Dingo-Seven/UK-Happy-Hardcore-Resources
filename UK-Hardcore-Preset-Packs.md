@@ -15,6 +15,12 @@ Don't be afraid to experiment with taking sounds from other genres! Consider usi
 - [Oversampled Porter Robinson Inspired Serum Preset Pack](https://oversampled.us/collections/frontpage/products/portify-porter-robinson-inspired-serum-preset-pack)
   - Not necessarily UK Hardcore, but I like to use this kinda sound
 - [Kors K 2021 Free Serum Presets](https://www.youtube.com/watch?v=ilmMgqbHhlg)
+- [Nhato Bass Essentials](https://store.anagram-s.com/collections/artist-line/products/nhato-serum-bass-essentials)
+- [KYMOGRAPH Enchant Pack Vol. 1](https://kymograph.gumroad.com/l/ENC01?layout=profile)
+- [KYMOGRAPH Enchant Pack Vol. 2](https://kymograph.gumroad.com/l/ESP2?layout=profile)
+- [KYMOGRAPH Future Synth Presets](https://kymograph.gumroad.com/l/FSP1?layout=profile)
+- [Juggernaut Presets Vol. 1](https://jgnt.booth.pm/items/1881467)
+- [Juggernaut Presets Vol. 2](https://jgnt.booth.pm/items/3265705)
 
 ## Native Instruments Massive
 
@@ -26,6 +32,7 @@ Don't be afraid to experiment with taking sounds from other genres! Consider usi
 - [Stonebank Sylenth Presets Vol. 1](https://www.beatlabaudio.com/shop/daw-presets/ableton/stonebank-uk-hardcore-sylenth-presets/)
 - [Stonebank Sylenth Presets Vol. 2](https://www.beatlabaudio.com/shop/synth-presets/sylenth/stonebank-sylenth-presets-2020/)
 - [Beat Lab Audio UK Hardcore Leads](https://www.beatlabaudio.com/shop/synth-presets/sylenth/ukhardcoreleads/)
+- [MK & Shadw Soundset](https://store.anagram-s.com/collections/artist-line/products/mk-shadw-sylenth1-soundset)
 
 ## Reveal Sound Spire
 
@@ -34,7 +41,11 @@ Don't be afraid to experiment with taking sounds from other genres! Consider usi
 - [Justice Hardcore: The Core](https://www.dancemidisamples.com/product/justice-hardcore-the-core-spire-presets/)
 - [J-Core Hardcore Producer Soundbank](https://store.anagram-s.com/products/hardcore-producers-soundbank-for-spire-incl-100-samples)
 - [Fracus and Darwin Spire Soundbank 2022](https://musicblocks.co.uk/?product=mbm-spire-hardcore-2022)
+- [Nhato Spire Essentials Vol. 1](https://store.anagram-s.com/collections/artist-line/products/nhato-spire-essentials)
+- [Nhato Spire Essentials Vol. 2](https://store.anagram-s.com/collections/artist-line/products/nhato-spire-essentials-vol-2)
+- [JCore Producer Soundbank](https://store.anagram-s.com/collections/artist-line/products/hardcore-producers-soundbank-for-spire-incl-100-samples)
 
 ## Tytel Vital
 
 - [Stonebank Vital Presets Vol. 1](https://www.beatlabaudio.com/shop/synth-presets/vital/stonebank-vital-presets-2021/)
+- [MK & Shadw Soundset](https://store.anagram-s.com/collections/artist-line/products/mk-shadw-vital-soundset)
