@@ -37,6 +37,7 @@ If it sounds good, it sounds good :D
 - [Stonebank Sylenth Presets Vol. 2](https://www.beatlabaudio.com/shop/synth-presets/sylenth/stonebank-sylenth-presets-2020/)
 - [Beat Lab Audio UK Hardcore Leads](https://www.beatlabaudio.com/shop/synth-presets/sylenth/ukhardcoreleads/)
 - [MK & Shadw Soundset](https://store.anagram-s.com/collections/artist-line/products/mk-shadw-sylenth1-soundset)
+- [Vau Boy Sylenth1 Vol. 1](https://vauboy.gumroad.com/l/YdRUG?layout=profile)
 
 ## Reveal Sound Spire
 
