@@ -112,6 +112,8 @@ Here are the packs:
 
 - [Kick Sample Pack Vol. 1](https://laur1200as.booth.pm/items/3426306)
 - [Skull Snare and Cinematic Sound Sample Pack](https://laur1200as.booth.pm/items/533518)
+- [SUPER ULTRA HAYPER MEGA GIG ULTIMATE EXPLOSION IMPACT SAMPLE PACK](https://twitter.com/LAUR1200/status/1625477179634229248)
+  - This has gotta be one of my favorite shitposts promoting a sample pack I've ever seen XD
 
 ### Lapix
 
