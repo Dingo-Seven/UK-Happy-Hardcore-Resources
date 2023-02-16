@@ -8,7 +8,7 @@ Don't be afraid to experiment with taking sounds from other genres!
 
 If you use Splice or any other sample subscription service, you can use samples from an array of genres such as Trance, Techno, Drum n Bass, and Dubstep for the drums. It is cool to mesh hardcore with other genres such as Rock, Kawaii Future Bass, the works. Getting samples like fx, ambiance, and the like from many other genres is worth experimenting with. I personally like the KSHMR packs for drum fills, fx, and the occasional Uplifting Trance kick.
 
-I heavily advise learning sound design for things like acid, pads, and leads. 
+I heavily advise learning sound design for things like acid, pads, and leads.
 
 If it sounds good, it's good :D
 
@@ -52,10 +52,6 @@ Here are the packs:
 - [Vocal Snaps Sample Pack](https://musicblocks.co.uk/?product=music-blocks-presents-vocal-snaps-vol-1-jenna)
   - Well suited for one-shots or for Trance in general, very few hooks/verses here
 
-### M-Project
-
-- [Powerstomp Sample Pack](https://shoptly.com/i/b38g)
-
 ### Eufeion
 
 - [Essentials Sample Pack](https://www.instagram.com/p/CDKeMofhVB2/?igshid=1tkzk4sc06mmg)
@@ -74,6 +70,12 @@ Here are the packs:
 
 - [Volume 1](https://www.yesspyro.com/collections/all/products/spyro-sample-pack-vol-1-samples-only)
 - [Volume 2](https://www.yesspyro.com/collections/frontpage/products/spyro-sample-pack-vol-2)
+
+## J-Core
+
+### M-Project
+
+- [Powerstomp Sample Pack](https://shoptly.com/i/b38g)
 
 ### Yuta Imai
 
@@ -154,4 +156,6 @@ Here are the packs:
 
 - [Mega Collection](https://samples.kb6.de/downloads.php)
 
-There's def more out there, but I have yet to discover them, feel free to add on any other ones that you know of.
+There's def more out there, but I have yet to discover them, feel free to add on any other ones that you know of through GitHub issues.
+
+Thanks for stopping by, I'm glad you're producing and helping keep the scene alive :D
