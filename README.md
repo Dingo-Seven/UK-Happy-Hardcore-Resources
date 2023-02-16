@@ -1,6 +1,6 @@
 # UK-Happy-Hardcore-Resources
  
-A small repository containing useful links to resources pertaining to UK Happy Hardcore, and Hard Dance in general.
+A small repository containing useful links to resources pertaining to UK Happy Hardcore, J-Core, and Hard Dance in general.
  
 ## Want to learn UK Happy Hardcore Production?
  
