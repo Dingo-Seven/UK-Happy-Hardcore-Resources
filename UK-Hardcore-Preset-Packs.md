@@ -54,3 +54,7 @@ If it sounds good, it sounds good :D
 
 - [Stonebank Vital Presets Vol. 1](https://www.beatlabaudio.com/shop/synth-presets/vital/stonebank-vital-presets-2021/)
 - [MK & Shadw Soundset](https://store.anagram-s.com/collections/artist-line/products/mk-shadw-vital-soundset)
+
+There's def more out there, but I have yet to discover them, feel free to add on any other ones that you know of through GitHub issues.
+
+Thanks for stopping by, I'm glad you're producing and helping keep the scene alive :D
