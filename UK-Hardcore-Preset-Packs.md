@@ -1,8 +1,8 @@
 # UK Happy Hardcore Preset Packs
 
-Here is a list of UK Happy Hardcore preset packs for those looking to reverse engineer certain artist sounds. 
+Here is a list of UK Happy Hardcore preset packs for those looking to reverse engineer certain artist sounds.
 
-Don't be afraid to experiment with taking sounds from other genres! 
+Don't be afraid to experiment with taking sounds from other genres!
 
 Consider using sounds from Trance, Acid Techno/House, Industrial Midtempo, Russian Hardbass, Drum N Bass, Kawaii Future Bass, Eurobeat, Old Skool, European New Beat, etc.
 
@@ -46,6 +46,7 @@ If it sounds good, it sounds good :D
 - [Justice Hardcore: The Core](https://www.dancemidisamples.com/product/justice-hardcore-the-core-spire-presets/)
 - [J-Core Hardcore Producer Soundbank](https://store.anagram-s.com/products/hardcore-producers-soundbank-for-spire-incl-100-samples)
 - [Fracus and Darwin Spire Soundbank 2022](https://musicblocks.co.uk/?product=mbm-spire-hardcore-2022)
+- [Fracus and Darwin Spire Soudnbank 2023](https://musicblocks.co.uk/?product=mbm-spire-hardcore-2-2023)
 - [Nhato Spire Essentials Vol. 1](https://store.anagram-s.com/collections/artist-line/products/nhato-spire-essentials)
 - [Nhato Spire Essentials Vol. 2](https://store.anagram-s.com/collections/artist-line/products/nhato-spire-essentials-vol-2)
 - [JCore Producer Soundbank](https://store.anagram-s.com/collections/artist-line/products/hardcore-producers-soundbank-for-spire-incl-100-samples)
