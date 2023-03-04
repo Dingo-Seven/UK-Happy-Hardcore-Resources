@@ -7,11 +7,14 @@ A small repository containing useful links to resources pertaining to UK Happy H
 Refer to this [YT Playlist](https://youtube.com/playlist?list=PLx8AJyqd8OBR7JpLa-cAU1o9tiY0T3jip) for tutorials on general production as well as UK Happy Hardcore
 
 ## Useful communities to consider joining for producers:
-- [OneSeventy Community Discord Server](https://discord.gg/sH7N7ArD2S)
+- [OneSeventy Community Discord Server](https://discord.gg/JJgJwUSYk3)
     - Has a few well-known artists who regularly contribute on the production channels, also has some feedback capabilities
+- [HappyHardcore.com](https://discord.gg/bvbMMQ7n)
+    - General purpose server of fans of UK Happy Hardcore
+    - Has a production-oriented channel
 - [Hardcore and Harder Discord Server](https://discord.gg/sH7N7ArD2S)
     - Focuses on the harder subgenres including Gabber, Frenchcore, Uptempo, etc
-- [J-Core Community Discord Server](https://discord.gg/sH7N7ArD2S)
+- [J-Core Community Discord Server](https://discord.gg/AmexFVm7YX)
     - Offshoot of the JCore subreddit
     - Has a few production channels, contains some real gems here and there
 - [In The Mix Community Discord](https://discord.gg/inthemix)
