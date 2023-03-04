@@ -56,11 +56,11 @@ Here are the packs:
 
 - [Essentials Sample Pack](https://www.instagram.com/p/CDKeMofhVB2/?igshid=1tkzk4sc06mmg)
 
-### HENTAiCORE
+### Oxygenetix AKA OxyDSP (Formerly known as HENTAiCORE)
 
-- [Free Pack Volume 1](https://soundcloud.com/hentai-4/freepack)
-- [Free Pack Volume 2](https://soundcloud.com/hentai-4/free-hardcore-pack-vol-2)
-- [HENTAiCORE and Aethral: Chromium](https://gumroad.com/l/eUveQ)
+- [Free Pack Volume 1](https://soundcloud.com/oxygenetix/freepack)
+- [Free Pack Volume 2](https://soundcloud.com/oxygenetix/free-hardcore-pack-vol-2)
+- [HENTAiCORE and Aethral: Chromium](https://oxydsp.com/products/chromium)
 
 ### Kevin Energy
 
