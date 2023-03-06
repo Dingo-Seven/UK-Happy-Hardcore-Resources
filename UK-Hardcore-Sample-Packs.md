@@ -71,6 +71,10 @@ Here are the packs:
 - [Volume 1](https://www.yesspyro.com/collections/all/products/spyro-sample-pack-vol-1-samples-only)
 - [Volume 2](https://www.yesspyro.com/collections/frontpage/products/spyro-sample-pack-vol-2)
 
+### Quickdrop, Bonkerz, and DJ THT
+- [CESA Samples Handsup Kicks Volume 2](https://cesasamples.gumroad.com/l/HANDSUPKICKSV2)
+  - INcludes old skool and modern kicks that work well for UK Happy Hardcore
+
 ## J-Core
 
 ### M-Project
