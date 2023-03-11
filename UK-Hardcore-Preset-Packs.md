@@ -26,6 +26,10 @@ If it sounds good, it sounds good :D
 - [Juggernaut Presets Vol. 1](https://jgnt.booth.pm/items/1881467)
 - [Juggernaut Presets Vol. 2](https://jgnt.booth.pm/items/3265705)
 
+## Kilohearts Phase Plant
+
+- [Camellia - Microwave Proof Preset Pack](https://kilohearts.com/banks)
+
 ## Native Instruments Massive
 
 - [Justice Hardcore NI Massive Soundset](https://www.dancemidisamples.com/product/justice-hardcore-ni-massive-soundset/)
