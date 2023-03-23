@@ -25,6 +25,8 @@ If it sounds good, it sounds good :D
 - [KYMOGRAPH Future Synth Presets](https://kymograph.gumroad.com/l/FSP1?layout=profile)
 - [Juggernaut Presets Vol. 1](https://jgnt.booth.pm/items/1881467)
 - [Juggernaut Presets Vol. 2](https://jgnt.booth.pm/items/3265705)
+- [Alan Aztec Donk Presets Vol. 1](https://www.dancemidisamples.com/product/donk-bass-presets-for-xfer-records-serum-sound-bank/)
+- [Alan Aztec Donk Presets Vol. 2](https://www.dancemidisamples.com/product/xfer-records-serum-sound-bank-donk-bass-presets-2/)
 
 ## Kilohearts Phase Plant
 

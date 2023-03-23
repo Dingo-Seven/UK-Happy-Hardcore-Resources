@@ -65,6 +65,7 @@ Here are the packs:
 ### Kevin Energy
 
 - [Hardcore and Freeform Volume 1](https://www.dancemidisamples.com/product/kevin-energy-hardcore-freeform-sample-pack-1/)
+- [The Muthaload: Hardcore & Freeform](https://www.dancemidisamples.com/product/kevin-energy-the-muthaload-hardcore-freeform-mega-pack/)
 
 ### Spyro
 
@@ -72,10 +73,19 @@ Here are the packs:
 - [Volume 2](https://www.yesspyro.com/collections/frontpage/products/spyro-sample-pack-vol-2)
 
 ### Quickdrop, Bonkerz, and DJ THT
+
 - [CESA Samples Hands Up Kicks Volume 1](https://cesasamples.gumroad.com/l/HANDSUPKICKSV1)
   - Includes old skool kicks that work well for UK Happy Hardcore
 - [CESA Samples Hands Up Kicks Volume 2](https://cesasamples.gumroad.com/l/HANDSUPKICKSV2)
   - Includes old skool and modern kicks that work well for UK Happy Hardcore
+
+### K-Complex
+
+- [K-Complex Sample Pack](https://www.dancemidisamples.com/product/k-complex-sample-pack/)
+
+### DJ Dougal & Brisk
+
+- [Zero-G Hardcore Sample Pack](https://www.producerloops.com/DJ-Dougal-and-DJ-Brisk-Hardcore-Sample-Pack-Download.html)
 
 ## J-Core
 
