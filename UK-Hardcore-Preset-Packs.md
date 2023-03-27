@@ -56,6 +56,7 @@ If it sounds good, it sounds good :D
 - [Nhato Spire Essentials Vol. 1](https://store.anagram-s.com/collections/artist-line/products/nhato-spire-essentials)
 - [Nhato Spire Essentials Vol. 2](https://store.anagram-s.com/collections/artist-line/products/nhato-spire-essentials-vol-2)
 - [JCore Producer Soundbank](https://store.anagram-s.com/collections/artist-line/products/hardcore-producers-soundbank-for-spire-incl-100-samples)
+- [JTrance Producer Soundbank](https://store.anagram-s.com/products/trance-progressive-producers-soundbank-for-spire)
 
 ## Tytel Vital
 
