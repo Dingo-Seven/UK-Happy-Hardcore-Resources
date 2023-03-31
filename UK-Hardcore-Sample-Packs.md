@@ -143,6 +143,10 @@ Here are the packs:
 - [HiTECH Bass Loops Vol. 1](https://lapix.booth.pm/items/2729161)
 - [HiTECH Synth Loops Vol. 1](https://lapix.booth.pm/items/3017577)
 
+### Round Wave Crusher
+
+- [Hardtek Ecchi Kicks](https://roundwavecrusher.bandcamp.com/album/ecchi-kicks-by-round-wave-crusher)
+
 ### Srav3R
 
 - [Sample Pack Vol. 1](https://srav3r.booth.pm/items/896343)
