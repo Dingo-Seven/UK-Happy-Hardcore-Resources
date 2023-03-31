@@ -145,7 +145,8 @@ Here are the packs:
 
 ### Round Wave Crusher
 
-- [Hardtek Ecchi Kicks](https://roundwavecrusher.bandcamp.com/album/ecchi-kicks-by-round-wave-crusher)
+- [Hardcore Ecchi Kicks](https://roundwavecrusher.bandcamp.com/album/ecchi-kicks-by-round-wave-crusher)
+- [Hardcore Hentai Kicks](https://roundwavecrusher.bandcamp.com/album/hentai-kicks-by-round-wave-crusher-2)
 
 ### Srav3R
 
