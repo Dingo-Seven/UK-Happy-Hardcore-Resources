@@ -20,10 +20,11 @@ Here are the packs:
 
 ### Fracus and Darwin
 
-- [Producer Pack Volume 1](https://musicblocks.co.uk/?product=producer-pack-vol-1)
-- [Essential Hardcore 2020](https://musicblocks.co.uk/?product=music-blocks-presents-essential-hardcore-2020)
-- [Happy Hardcore Essentials](https://musicblocks.co.uk/?product=mbm-happy-hardcore-essentials)
-- [Happy Hardcore Essentials Volume 2](https://musicblocks.co.uk/?product=mbm-happy-hardcore-essentials-vol-2)
+- [Producer Pack Vol. 1](https://musicblocks.co.uk/?product=producer-pack-vol-1)
+- [Happy Hardcore Essentials 2020](https://musicblocks.co.uk/?product=music-blocks-presents-essential-hardcore-2020)
+- [Happy Hardcore Essentials 2021](https://musicblocks.co.uk/?product=mbm-happy-hardcore-essentials)
+- [Happy Hardcore Essentials 2022](https://musicblocks.co.uk/?product=mbm-happy-hardcore-essentials-vol-2)
+- [Happy Hardcore Essentials 2023](https://musicblocks.co.uk/?product=mbm-essential-hardcore-2023)
 - [Hardcore Underground Sample Pack](https://www.dancemidisamples.com/product/hardcore-underground-sample-pack/)
 
 ### Sy and Unknown
