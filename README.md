@@ -4,7 +4,11 @@ A small repository containing useful links to resources pertaining to UK Happy H
 
 ## Want to learn UK Happy Hardcore Production?
 
-Refer to this [YT Playlist](https://youtube.com/playlist?list=PLx8AJyqd8OBR7JpLa-cAU1o9tiY0T3jip) for tutorials on general production as well as UK Happy Hardcore
+Refer to this [YT Playlist](https://youtube.com/playlist?list=PLx8AJyqd8OBR7JpLa-cAU1o9tiY0T3jip) for tutorials on general production as well as UK Happy Hardcore.
+
+## Want to learn JCore Production?
+
+Consider using this [YT Playlist](https://www.youtube.com/playlist?list=PLM3r4l_qfGtrikfQ14EzqEEyz8UBt1irV) for tutorials, just gotta be crafty with closed captions or pay heavy visual attention if you don't know the language.
 
 ## Useful communities to consider joining for producers:
 
