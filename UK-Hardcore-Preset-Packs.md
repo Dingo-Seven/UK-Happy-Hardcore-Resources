@@ -16,6 +16,7 @@ If it sounds good, it sounds good :D
 - [Stonebank Serum Presets Vol. 2](https://www.beatlabaudio.com/shop/synth-presets/serum/stonebank-serum-presets-2021/)
 - [Fracus and Darwin Serum and Massive Presets](https://www.dancemidisamples.com/product/fracus-and-darwin-xfer-serum-and-ni-massive-presets-for-happy-hardcore/)
 - [Technikore Serum 2022](https://www.beatlabaudio.com/shop/synth-presets/serum/technikore-serum-presets-2022)
+- [Technikore Signature Bass Presets](https://www.beatlabaudio.com/shop/genre/hardcore/technikore-signature-bass-for-serum)
 - [Oversampled Porter Robinson Inspired Serum Preset Pack](https://oversampled.us/collections/frontpage/products/portify-porter-robinson-inspired-serum-preset-pack)
   - Not necessarily UK Hardcore, but I like to use this kinda sound
 - [Kors K 2021 Free Serum Presets](https://www.youtube.com/watch?v=ilmMgqbHhlg)
