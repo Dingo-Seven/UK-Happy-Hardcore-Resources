@@ -59,8 +59,8 @@ Here are the packs:
 
 ### Oxygenetix AKA OxyDSP (Formerly known as HENTAiCORE)
 
-- [Free Pack Volume 1](https://soundcloud.com/oxygenetix/freepack)
-- [Free Pack Volume 2](https://soundcloud.com/oxygenetix/free-hardcore-pack-vol-2)
+- [Free Pack Volume 1](https://mega.nz/file/8VBhXTzR#owddnZpQKPu1sWa9lCQH7KAhB0tkvZC78fL7qoEXpIQ)
+- [Free Pack Volume 2](https://mega.nz/file/BFQAmQCY#ZHColmDoiFuSdyOStEnXPCCQE-GFvfXUBiAwu0eUwrI)
 - [HENTAiCORE and Aethral: Chromium](https://oxydsp.com/products/chromium)
 
 ### Kevin Energy
