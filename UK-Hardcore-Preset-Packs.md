@@ -33,11 +33,6 @@ If it sounds good, it sounds good :D
 
 - [Camellia - Microwave Proof Preset Pack](https://kilohearts.com/banks)
 
-## Native Instruments Massive
-
-- [Justice Hardcore NI Massive Soundset](https://www.dancemidisamples.com/product/justice-hardcore-ni-massive-soundset/)
-- [Fracus and Darwin Serum and Massive Presets](https://www.dancemidisamples.com/product/fracus-and-darwin-xfer-serum-and-ni-massive-presets-for-happy-hardcore/)
-
 ## LennarDigital Sylenth1
 
 - [Stonebank Sylenth Presets Vol. 1](https://www.beatlabaudio.com/shop/daw-presets/ableton/stonebank-uk-hardcore-sylenth-presets/)
@@ -45,6 +40,11 @@ If it sounds good, it sounds good :D
 - [Beat Lab Audio UK Hardcore Leads](https://www.beatlabaudio.com/shop/synth-presets/sylenth/ukhardcoreleads/)
 - [MK & Shadw Soundset](https://store.anagram-s.com/collections/artist-line/products/mk-shadw-sylenth1-soundset)
 - [Vau Boy Sylenth1 Vol. 1](https://vauboy.gumroad.com/l/YdRUG?layout=profile)
+
+## Native Instruments Massive
+
+- [Justice Hardcore NI Massive Soundset](https://www.dancemidisamples.com/product/justice-hardcore-ni-massive-soundset/)
+- [Fracus and Darwin Serum and Massive Presets](https://www.dancemidisamples.com/product/fracus-and-darwin-xfer-serum-and-ni-massive-presets-for-happy-hardcore/)\
 
 ## Reveal Sound Spire
 
@@ -58,6 +58,7 @@ If it sounds good, it sounds good :D
 - [Nhato Spire Essentials Vol. 2](https://store.anagram-s.com/collections/artist-line/products/nhato-spire-essentials-vol-2)
 - [JCore Producer Soundbank](https://store.anagram-s.com/collections/artist-line/products/hardcore-producers-soundbank-for-spire-incl-100-samples)
 - [JTrance Producer Soundbank](https://store.anagram-s.com/products/trance-progressive-producers-soundbank-for-spire)
+- [Mike Reverie Spire Bank Vol. 1](https://www.mikereverie.com/product/spire-bank-vol-1/)
 
 ## Tytel Vital
 
