@@ -60,7 +60,9 @@ Here are the packs:
 ### Oxygenetix AKA OxyDSP (Formerly known as HENTAiCORE)
 
 - [Free Pack Volume 1](https://mega.nz/file/8VBhXTzR#owddnZpQKPu1sWa9lCQH7KAhB0tkvZC78fL7qoEXpIQ)
+  - I recommend using qBitTorrent, and please consider seeding as well, I don't keep my machine on at all times :P
 - [Free Pack Volume 2](https://mega.nz/file/BFQAmQCY#ZHColmDoiFuSdyOStEnXPCCQE-GFvfXUBiAwu0eUwrI)
+  - See above comment
 - [HENTAiCORE and Aethral: Chromium](https://oxydsp.com/products/chromium)
 
 ### Kevin Energy
