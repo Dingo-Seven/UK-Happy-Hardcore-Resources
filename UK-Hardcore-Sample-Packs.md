@@ -90,6 +90,9 @@ Here are the packs:
 
 - [Zero-G Hardcore Sample Pack](https://www.producerloops.com/DJ-Dougal-and-DJ-Brisk-Hardcore-Sample-Pack-Download.html)
 
+### No Hero
+- [Happier Hardcore Vol. 1](https://payhip.com/b/BMv6C)
+
 ## J-Core
 
 ### M-Project
