@@ -52,6 +52,7 @@ Here are the packs:
 
 - [Vocal Snaps Sample Pack](https://musicblocks.co.uk/?product=music-blocks-presents-vocal-snaps-vol-1-jenna)
   - Well suited for one-shots or for Trance in general, very few hooks/verses here
+- [Vocal Snaps Volume 2](https://musicblocks.co.uk/?product=mbm-vocal-snaps-vol-2-jenna)
 
 ### Eufeion
 
@@ -82,7 +83,7 @@ Here are the packs:
   - Includes old skool kicks that work well for UK Happy Hardcore
 - [CESA Samples Hands Up Kicks Volume 2](https://cesasamples.gumroad.com/l/HANDSUPKICKSV2)
   - Includes old skool and modern kicks that work well for UK Happy Hardcore
-- [CESA Samples Hard Dance Anthology Vol 1](https://cesasamples.gumroad.com/l/harddanceanthologyv1)
+- [CESA Samples Hard Dance Anthology Volume 1](https://cesasamples.gumroad.com/l/harddanceanthologyv1)
 
 ### K-Complex
 
@@ -93,6 +94,7 @@ Here are the packs:
 - [Zero-G Hardcore Sample Pack](https://www.producerloops.com/DJ-Dougal-and-DJ-Brisk-Hardcore-Sample-Pack-Download.html)
 
 ### No Hero
+
 - [Happier Hardcore Vol. 1](https://payhip.com/b/BMv6C)
 
 ## J-Core
