@@ -64,6 +64,7 @@ Here are the packs:
 - [Free Pack Volume 2](https://mega.nz/file/BFQAmQCY#ZHColmDoiFuSdyOStEnXPCCQE-GFvfXUBiAwu0eUwrI)
   - See above comment
 - [HENTAiCORE and Aethral: Chromium](https://oxydsp.com/products/chromium)
+- [OxyDSP and Aethral: Cyberium](https://oxydsp.com/products/cyberium)
 
 ### Kevin Energy
 
@@ -81,6 +82,7 @@ Here are the packs:
   - Includes old skool kicks that work well for UK Happy Hardcore
 - [CESA Samples Hands Up Kicks Volume 2](https://cesasamples.gumroad.com/l/HANDSUPKICKSV2)
   - Includes old skool and modern kicks that work well for UK Happy Hardcore
+- [CESA Samples Hard Dance Anthology Vol 1](https://cesasamples.gumroad.com/l/harddanceanthologyv1)
 
 ### K-Complex
 
