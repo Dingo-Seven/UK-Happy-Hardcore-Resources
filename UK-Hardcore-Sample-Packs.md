@@ -97,6 +97,10 @@ Here are the packs:
 
 - [Happier Hardcore Vol. 1](https://payhip.com/b/BMv6C)
 
+### S3RL
+
+- [Remix Pack Shop for various songs](https://djs3rl.com/shop/remix-packs)
+
 ## J-Core
 
 ### M-Project
