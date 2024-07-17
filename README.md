@@ -10,6 +10,14 @@ Refer to this [YT Playlist](https://youtube.com/playlist?list=PLx8AJyqd8OBR7JpLa
 
 Consider using this [YT Playlist](https://www.youtube.com/playlist?list=PLM3r4l_qfGtrikfQ14EzqEEyz8UBt1irV) for tutorials, just gotta be crafty with closed captions or pay heavy visual attention if you don't know the language.
 
+## Want to Contribute?
+
+First and foremost, thank you for considering to contribute :D
+
+Currently, I am opening discussions to GitHub Issues to keep discussions open and transparent among members of the community. I'm also more than happy to get feedback if I happen to post it myself somewhere on the net.
+
+The mission is, and always will be, to accumulate a breadth of knowledge and resources to share among beginners and enthusiasts alike, so that everyone can benefit from this set of resources.
+
 ## Useful communities to consider joining for producers:
 
 - [OneSeventy Community Discord Server](https://discord.gg/JJgJwUSYk3)
