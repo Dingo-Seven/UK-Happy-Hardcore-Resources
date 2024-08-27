@@ -166,6 +166,10 @@ Here are the packs:
 
 - [Sample Pack Vol. 1](https://srav3r.booth.pm/items/896343)
 
+### YUKIYANAGI
+
+- [Loop Hole Sample Pack](https://yukiyanagi.gumroad.com/l/yukiyanagi_a_loop_hole)
+
 ## Old Skool
 
 ### Billy Bunter and Sanxion
