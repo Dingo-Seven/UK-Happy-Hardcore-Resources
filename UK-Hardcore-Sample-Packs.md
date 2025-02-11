@@ -43,6 +43,7 @@ Here are the packs:
 ### Jakka-B
 
 - [Hard Essentials Volume 1](https://shoptly.com/i/bbxv)
+- [Jakka-B & Macks Wolf Out of the Box Sample Pack](https://ootbsamples.myshopify.com/)
 
 ### David Bridson
 
@@ -169,6 +170,10 @@ Here are the packs:
 ### YUKIYANAGI
 
 - [Loop Hole Sample Pack](https://yukiyanagi.gumroad.com/l/yukiyanagi_a_loop_hole)
+
+### DJ Shimamura
+
+- [Absolute Hardcore Rave](https://shoptly.com/i/3s1w)
 
 ## Old Skool
 
