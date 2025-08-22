@@ -67,6 +67,7 @@ Here are the packs:
   - See above comment
 - [HENTAiCORE and Aethral: Chromium](https://oxydsp.com/products/chromium)
 - [OxyDSP and Aethral: Cyberium](https://oxydsp.com/products/cyberium)
+- [OxyDSP and Aethral: Alterium](https://oxydsp.com/products/alterium)
 
 ### Kevin Energy
 
