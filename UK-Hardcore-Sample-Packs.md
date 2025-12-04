@@ -18,6 +18,11 @@ Here are the packs:
 
 ## UK Happy Hardcore
 
+### Al Storm
+
+- [24/7 Retro Sample Collection Vol. 1](https://247hardstore.com/products/al-storm-presents-24-7-retro-sample-collection-vol-1)
+- [24/7 Retro Sample Collection Vol. 2](https://247hardstore.com/products/al-storm-presents-24-7-retro-sample-collection-vol-2)
+
 ### Fracus and Darwin
 
 - [Producer Pack Vol. 1](https://musicblocks.co.uk/?product=producer-pack-vol-1)
@@ -25,6 +30,8 @@ Here are the packs:
 - [Happy Hardcore Essentials 2021](https://musicblocks.co.uk/?product=mbm-happy-hardcore-essentials)
 - [Happy Hardcore Essentials 2022](https://musicblocks.co.uk/?product=mbm-happy-hardcore-essentials-vol-2)
 - [Happy Hardcore Essentials 2023](https://musicblocks.co.uk/?product=mbm-essential-hardcore-2023)
+- [Happy Hardcore Essentials 2024](https://musicblocks.co.uk/?product=mbm-essential-hardcore-2024)
+- [Happy Hardcore Essentials 2025](https://musicblocks.co.uk/?product=mbm-essential-hardcore-2025)
 - [Hardcore Underground Sample Pack](https://www.dancemidisamples.com/product/hardcore-underground-sample-pack/)
 
 ### Sy and Unknown
