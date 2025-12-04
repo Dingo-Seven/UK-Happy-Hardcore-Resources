@@ -29,6 +29,10 @@ If it sounds good, it sounds good :D
 - [Alan Aztec Donk Presets Vol. 1](https://www.dancemidisamples.com/product/donk-bass-presets-for-xfer-records-serum-sound-bank/)
 - [Alan Aztec Donk Presets Vol. 2](https://www.dancemidisamples.com/product/xfer-records-serum-sound-bank-donk-bass-presets-2/)
 
+## XFER Serum 2
+
+- [Fracus & Darwin Hardcore Soundbank Vol. 1](https://musicblocks.co.uk/?product=mbm-serum-2-hardcore-sound-bank)
+
 ## Kilohearts Phase Plant
 
 - [Camellia - Microwave Proof Preset Pack](https://kilohearts.com/banks)
@@ -58,7 +62,7 @@ If it sounds good, it sounds good :D
 - [Nhato Spire Essentials Vol. 2](https://store.anagram-s.com/collections/artist-line/products/nhato-spire-essentials-vol-2)
 - [JCore Producer Soundbank](https://store.anagram-s.com/collections/artist-line/products/hardcore-producers-soundbank-for-spire-incl-100-samples)
 - [JTrance Producer Soundbank](https://store.anagram-s.com/products/trance-progressive-producers-soundbank-for-spire)
-- [Mike Reverie Spire Bank Vol. 1](https://www.mikereverie.com/product/spire-bank-vol-1/)
+- ~~[Mike Reverie Spire Bank Vol. 1](https://www.mikereverie.com/product/spire-bank-vol-1/)~~ DEPRECATED
 
 ## Tytel Vital
 
