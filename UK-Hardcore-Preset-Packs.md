@@ -44,6 +44,7 @@ If it sounds good, it sounds good :D
 - [Beat Lab Audio UK Hardcore Leads](https://www.beatlabaudio.com/shop/synth-presets/sylenth/ukhardcoreleads/)
 - [MK & Shadw Soundset](https://store.anagram-s.com/collections/artist-line/products/mk-shadw-sylenth1-soundset)
 - [Vau Boy Sylenth1 Vol. 1](https://vauboy.gumroad.com/l/YdRUG?layout=profile)
+- [Hybrid Electricow UK Hardcore Soundbank - Galanthuz Archival](https://mega.nz/file/IAlWUAoT#Y0gq74ii8Giiloq6aMnGAcmPZysmdhtlokWTLLRfBVM)
 
 ## Native Instruments Massive
 
@@ -62,13 +63,18 @@ If it sounds good, it sounds good :D
 - [Nhato Spire Essentials Vol. 2](https://store.anagram-s.com/collections/artist-line/products/nhato-spire-essentials-vol-2)
 - [JCore Producer Soundbank](https://store.anagram-s.com/collections/artist-line/products/hardcore-producers-soundbank-for-spire-incl-100-samples)
 - [JTrance Producer Soundbank](https://store.anagram-s.com/products/trance-progressive-producers-soundbank-for-spire)
-- ~~[Mike Reverie Spire Bank Vol. 1](https://www.mikereverie.com/product/spire-bank-vol-1/)~~ DEPRECATED
+- [Mike Reverie Spire Bank Vol. 1](https://www.mikereverie.com/product/spire-bank-vol-1/)
 
 ## Tytel Vital
 
 - [Stonebank Vital Presets Vol. 1](https://www.beatlabaudio.com/shop/synth-presets/vital/stonebank-vital-presets-2021/)
 - [MK & Shadw Soundset](https://store.anagram-s.com/collections/artist-line/products/mk-shadw-vital-soundset)
+- [Srixon Hardcore EDM Soundbank Vol.1 - Galanthuz Archival](https://mega.nz/file/Qdsg1Yyb#O9HV8cBD6VEzAJyJg8dxeVntSoF8lSzVFKqp1dOCMCM)
 
 There's def more out there, but I have yet to discover them, feel free to add on any other ones that you know of through GitHub issues.
 
 Thanks for stopping by, I'm glad you're producing and helping keep the scene alive :D
+
+## Access Virus TI
+
+- [Kulshan Studios - X-Treme Hardcore Soundset](https://kulshanstudios.com/access-virus-ti/xtreme)

@@ -110,6 +110,12 @@ Here are the packs:
 
 - [Remix Pack Shop for various songs](https://djs3rl.com/shop/remix-packs)
 
+### Aethral
+
+- [Zaphias - Techcore Sounds](https://aethral.one/b/DlQ57)
+- [Xylarion - Techcore Sounds Vol. 2](https://aethral.one/b/Ltuno)
+- [Hitech NRG Revolution](https://aethral.one/b/ERQl1)
+
 ## J-Core
 
 ### M-Project
@@ -207,6 +213,10 @@ Here are the packs:
 ### KB Drum Samples
 
 - [Mega Collection](https://samples.kb6.de/downloads.php)
+
+### Nuphory
+
+- [Hypertrance - Y2K Inspired Pack](https://www.hypertrance.eu/)
 
 There's def more out there, but I have yet to discover them, feel free to add on any other ones that you know of through GitHub issues.
 
