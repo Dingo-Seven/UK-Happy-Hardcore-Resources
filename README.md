@@ -22,7 +22,7 @@ The mission is, and always will be, to accumulate a breadth of knowledge and res
 
 - [OneSeventy Community Discord Server](https://discord.gg/JJgJwUSYk3)
   - Has a few well-known artists who regularly contribute on the production channels, also has some feedback capabilities
-- [HappyHardcore.com Discord Server](https://discord.gg/bvbMMQ7n)
+- [HappyHardcore.com Discord Server](https://discordapp.com/invite/JyQaXuG)
   - General purpose server of fans of UK Happy Hardcore
   - Has a production-oriented channel
 - [Hardcore and Harder Discord Server](https://discord.gg/sH7N7ArD2S)
