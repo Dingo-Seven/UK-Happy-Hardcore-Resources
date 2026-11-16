@@ -14,7 +14,7 @@ If it sounds good, it sounds good :D
 - [Jakka B Serum Presets Vol. 2](https://shoptly.com/i/bx6s)
 - [Stonebank Serum Presets Vol. 1](https://www.beatlabaudio.com/shop/synth-presets/serum/stonebank-uk-hardcore-serum-presets/)
 - [Stonebank Serum Presets Vol. 2](https://www.beatlabaudio.com/shop/synth-presets/serum/stonebank-serum-presets-2021/)
-- [Fracus and Darwin Serum and Massive Presets](https://www.dancemidisamples.com/product/fracus-and-darwin-xfer-serum-and-ni-massive-presets-for-happy-hardcore/)
+- ~~[Fracus and Darwin Serum and Massive Presets](https://www.dancemidisamples.com/product/fracus-and-darwin-xfer-serum-and-ni-massive-presets-for-happy-hardcore/)~~ DEPRECATED
 - [Technikore Serum 2022](https://www.beatlabaudio.com/shop/synth-presets/serum/technikore-serum-presets-2022)
 - [Technikore Signature Bass Presets](https://www.beatlabaudio.com/shop/genre/hardcore/technikore-signature-bass-for-serum)
 - [Oversampled Porter Robinson Inspired Serum Preset Pack](https://oversampled.us/collections/frontpage/products/portify-porter-robinson-inspired-serum-preset-pack)
@@ -26,8 +26,8 @@ If it sounds good, it sounds good :D
 - [KYMOGRAPH Future Synth Presets](https://kymograph.gumroad.com/l/FSP1?layout=profile)
 - [Juggernaut Presets Vol. 1](https://jgnt.booth.pm/items/1881467)
 - [Juggernaut Presets Vol. 2](https://jgnt.booth.pm/items/3265705)
-- [Alan Aztec Donk Presets Vol. 1](https://www.dancemidisamples.com/product/donk-bass-presets-for-xfer-records-serum-sound-bank/)
-- [Alan Aztec Donk Presets Vol. 2](https://www.dancemidisamples.com/product/xfer-records-serum-sound-bank-donk-bass-presets-2/)
+- ~~[Alan Aztec Donk Presets Vol. 1](https://www.dancemidisamples.com/product/donk-bass-presets-for-xfer-records-serum-sound-bank/)~~ DEPRECATED
+- ~~[Alan Aztec Donk Presets Vol. 2](https://www.dancemidisamples.com/product/xfer-records-serum-sound-bank-donk-bass-presets-2/)~~ DEPRECATED
 
 ## XFER Serum 2
 
@@ -48,14 +48,14 @@ If it sounds good, it sounds good :D
 
 ## Native Instruments Massive
 
-- [Justice Hardcore NI Massive Soundset](https://www.dancemidisamples.com/product/justice-hardcore-ni-massive-soundset/)
-- [Fracus and Darwin Serum and Massive Presets](https://www.dancemidisamples.com/product/fracus-and-darwin-xfer-serum-and-ni-massive-presets-for-happy-hardcore/)\
+- ~~[Justice Hardcore NI Massive Soundset](https://www.dancemidisamples.com/product/justice-hardcore-ni-massive-soundset/)~~ DEPRECATED
+- ~~[Fracus and Darwin Serum and Massive Presets](https://www.dancemidisamples.com/product/fracus-and-darwin-xfer-serum-and-ni-massive-presets-for-happy-hardcore/)~~ DEPRECATED
 
 ## Reveal Sound Spire
 
 - [Technikore Spire Presets Vol. 1](https://www.beatlabaudio.com/shop/synth-presets/spire/technikore-spire-presets-2021/)
 - [Stonebank Spire Presets Vol. 1](https://www.beatlabaudio.com/shop/synth-presets/serum/stonebank-uk-hardcore-spire-presets/)
-- [Justice Hardcore: The Core](https://www.dancemidisamples.com/product/justice-hardcore-the-core-spire-presets/)
+- ~~[Justice Hardcore: The Core](https://www.dancemidisamples.com/product/justice-hardcore-the-core-spire-presets/)~~ DEPRECATED
 - [J-Core Hardcore Producer Soundbank](https://store.anagram-s.com/products/hardcore-producers-soundbank-for-spire-incl-100-samples)
 - [Fracus and Darwin Spire Soundbank 2022](https://musicblocks.co.uk/?product=mbm-spire-hardcore-2022)
 - [Fracus and Darwin Spire Soudnbank 2023](https://musicblocks.co.uk/?product=mbm-spire-hardcore-2-2023)

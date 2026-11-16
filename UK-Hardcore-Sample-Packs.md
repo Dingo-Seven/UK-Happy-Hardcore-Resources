@@ -32,7 +32,7 @@ Here are the packs:
 - [Happy Hardcore Essentials 2023](https://musicblocks.co.uk/?product=mbm-essential-hardcore-2023)
 - [Happy Hardcore Essentials 2024](https://musicblocks.co.uk/?product=mbm-essential-hardcore-2024)
 - [Happy Hardcore Essentials 2025](https://musicblocks.co.uk/?product=mbm-essential-hardcore-2025)
-- [Hardcore Underground Sample Pack](https://www.dancemidisamples.com/product/hardcore-underground-sample-pack/)
+- ~~[Hardcore Underground Sample Pack](https://www.dancemidisamples.com/product/hardcore-underground-sample-pack/)~~ DEPRECATED
 
 ### Sy and Unknown
 
@@ -54,7 +54,7 @@ Here are the packs:
 
 ### David Bridson
 
-- [Hard Hitters Vox Pack](https://www.dancemidisamples.com/bridsons-hard-hitters-vocal-pack/)
+- ~~[Hard Hitters Vox Pack](https://www.dancemidisamples.com/bridsons-hard-hitters-vocal-pack/)~~ DEPRECATED
 
 ### Jenna
 
@@ -78,8 +78,8 @@ Here are the packs:
 
 ### Kevin Energy
 
-- [Hardcore and Freeform Volume 1](https://www.dancemidisamples.com/product/kevin-energy-hardcore-freeform-sample-pack-1/)
-- [The Muthaload: Hardcore & Freeform](https://www.dancemidisamples.com/product/kevin-energy-the-muthaload-hardcore-freeform-mega-pack/)
+- ~~[Hardcore and Freeform Volume 1](https://www.dancemidisamples.com/product/kevin-energy-hardcore-freeform-sample-pack-1/)~~ DEPRECATED
+- ~~[The Muthaload: Hardcore & Freeform](https://www.dancemidisamples.com/product/kevin-energy-the-muthaload-hardcore-freeform-mega-pack/)~~ DEPRECATED
 
 ### Spyro
 
@@ -96,7 +96,7 @@ Here are the packs:
 
 ### K-Complex
 
-- [K-Complex Sample Pack](https://www.dancemidisamples.com/product/k-complex-sample-pack/)
+- ~~[K-Complex Sample Pack](https://www.dancemidisamples.com/product/k-complex-sample-pack/)~~ DEPRECATED
 
 ### DJ Dougal & Brisk
 
